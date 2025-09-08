@@ -39,3 +39,18 @@ thead{
     text-align: center;
 }
 
+.immagini{
+    margin-left: 25px;
+}
+
+.paragrafo_lista{
+    margin-left: 65px;
+    font-size: large;
+    margin-right: 65px;
+    
+}
+
+.evidenziato{
+    background-color: yellow;
+}
+
