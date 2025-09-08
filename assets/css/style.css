@@ -8,12 +8,33 @@ header{
     height: 150px;
     background-color: #4ea0ff;
     background-image: url("../img/pattern.png");
-    background-size: contain;
+    background-size: contain; 
 }
 
-#image_logo{
+.image_logo{
     height: 75px;
     margin: 60px;
     padding-right: 100px;
 }
 
+.titolo{
+    text-align: justify;
+    margin-left: 65px;;
+}
+
+.autore{
+    margin-top: -25px;
+    color: gray;
+    font-size: large;
+    inline-size: 200px;
+}
+
+.testoautore{
+    color: cyan;
+}
+
+thead{
+    background-color: #4ea0ff;
+    padding: 10px;
+    text-align: center;
+}
