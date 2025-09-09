@@ -64,3 +64,26 @@ thead{
     color: white;
     text-align: left;
 }
+
+.testofooter{
+    color: gray;
+}
+
+footer{
+    margin-left: 65px;
+    text-decoration: dashed;
+}
+
+.container{
+    position: relative;
+    color: white;
+    height: 400px;
+    width: 400px;
+}
+
+.testo1{
+    position: absolute;
+    z-index: 100;
+    font-size: 20;
+    color: white;
+}
