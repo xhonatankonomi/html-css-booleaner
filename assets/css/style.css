@@ -54,3 +54,13 @@ thead{
     background-color: yellow;
 }
 
+table{
+    margin-left: 65px;
+    border-collapse: collapse;
+    width: 90%;;
+}
+thead{
+    text-align: center;
+    color: white;
+    text-align: left;
+}
